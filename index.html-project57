@@ -1,0 +1,24 @@
+<html>
+    <section>
+    <head>
+        <ul class="menu">
+            <li class="link">About</li>
+            <li class="link">My tablas</li>
+            <li class="link">My work</li>
+            <li class="link">Inspiration</li>
+            <li class="link">Contact</li>
+        </ul>
+        <title>My favorites</title>
+        <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
+    </head>
+    </section>
+    <body>
+        <h1>My favorite hobbie is tabla</h1>
+       <section> 
+        
+        <p>
+            I love tabla.I listen zakir hussain playing tabla once in a week.I also paly tabla.whenever I am free I play tabla.My sister sings when I play tabla.
+        </p>
+        </section>
+    </body>
+</html>

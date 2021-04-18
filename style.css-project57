@@ -1,0 +1,14 @@
+p{
+text-align:center;
+font-size: 20px;
+    font-family: sans-serif;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    color: black
+}
